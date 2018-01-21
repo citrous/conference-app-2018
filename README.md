@@ -6,7 +6,13 @@
 [<img src="https://dply.me/xt08ja/button/large" alt="Try it on your device via DeployGate">](https://dply.me/xt08ja#install)
 
 # Features
-TBD
+<img src="https://user-images.githubusercontent.com/1386930/35192388-a0bc82e0-fed4-11e7-8d9b-c6c2bfb5837d.png" width="200" /> <img src="https://user-images.githubusercontent.com/1386930/35192398-c3241ce4-fed4-11e7-94a5-84f58f8e5aff.png" width="200" /> <img src="https://user-images.githubusercontent.com/1386930/35192405-dcdf4492-fed4-11e7-95f1-f1a3768a1a91.png" width="200" />
+
+* View conference schedule and details of each session
+* Set notification for upcoming sessions on your preference
+* Search sessions and speakers and topics
+* Show Information Feed
+
 
 # Contributing
 We are always welcome your contribution!
